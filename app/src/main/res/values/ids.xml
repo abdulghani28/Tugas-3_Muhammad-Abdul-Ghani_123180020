@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_logo_Country" type="id" />
+    <item name="tv_nama_Country_detail" type="id" />
+    <item name="tv_detail_Country" type="id" />
+</resources>
